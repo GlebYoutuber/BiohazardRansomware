@@ -22,3 +22,5 @@ Good Luck to Test my new Ransomware :D
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/GlebYoutuber/BiohazardRansomware/withoutcpueater/total?color=red&label=Downloads&logo=git&logoColor=green&style=for-the-badge)
 
 Please test this Ransomware only on VM(Hyper-V or VirtualBox)
+
+P.S: VM is Virtual Machine
