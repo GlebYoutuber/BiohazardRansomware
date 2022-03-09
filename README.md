@@ -16,3 +16,9 @@ Good Luck to Test my new Ransomware :D
  <img src="https://img.shields.io/discord/921106565283594330?color=yellow&label=Join%20to%20my%20Discord%20Channel&logo=discord&logoColor=green&style=social">
     </a>
     </p>
+
+# Numbers of Downloads of this Ransomware
+
+![GitHub release (by tag)](https://img.shields.io/github/downloads/GlebYoutuber/BiohazardRansomware/withoutcpueater/total?color=red&label=Downloads&logo=git&logoColor=green&style=for-the-badge)
+
+Please test this Ransomware only on VM(Hyper-V or VirtualBox)
